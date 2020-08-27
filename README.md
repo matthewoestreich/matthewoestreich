@@ -5,8 +5,6 @@
   <a href="https://mattoestreich.com">https://mattoestreich.com</a>
 </small>
 <br />
-<br />
 
-![](https://komarev.com/ghpvc/?username=oze4&color=green)
+![](https://komarev.com/ghpvc/?username=oze4&color=green&label=Profile+Views+as+of+8%2F3%2F2020)
 
-###### as of August 3, 2020
