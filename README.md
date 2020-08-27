@@ -1,12 +1,11 @@
-### Hi there 👋 
-
-### I'm Matt and I love to learn!
+#### AS SIMPLE AS POSSIBLE, BUT NO SIMPLER
 
 <br />
-
-### [https://mattoestreich.com](https://mattoestreich.com)
-
+<small>
+  <a href="https://mattoestreich.com">https://mattoestreich.com</a>
+</small>
 <br />
 
 ![](https://komarev.com/ghpvc/?username=oze4&color=green)
-<small>as of August 3, 2020</small>
+
+<p><small>as of August 3, 2020</small></p>
