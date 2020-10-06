@@ -6,6 +6,13 @@
   </small>
 </p>
 
+
+<p>
+  <small>
+    <a href="https://stackoverflow.com/users/10431732/matt-oestreich">https://stackoverflow.com/mattoestreich</a>
+  </small>
+</p>
+
 <br />
 
 <br />
