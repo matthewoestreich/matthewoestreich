@@ -1,5 +1,11 @@
 #### AS SIMPLE AS POSSIBLE, BUT NO SIMPLER
 
+<br />
+
+### *available for hire*
+
+<br />
+
 <p>
   <small>
     <a href="https://mattoestreich.com">https://mattoestreich.com</a>
