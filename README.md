@@ -1,5 +1,3 @@
-#### AS SIMPLE AS POSSIBLE, BUT NO SIMPLER
-
 >"What gets us into trouble
 >
 >is not what we don’t know.
