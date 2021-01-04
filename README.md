@@ -21,3 +21,5 @@
      title="profile for Matt Oestreich at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
    >
 </a>
+
+*available for hire*
