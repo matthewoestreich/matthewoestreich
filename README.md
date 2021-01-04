@@ -6,7 +6,7 @@
   <small>
     <a href="https://mattoestreich.com">
       <img
-         src="https://img.shields.io/badge/on%20the%20web-mattoestreich.com-green"
+         src="https://img.shields.io/badge/on%20the%20web-mattoestreich.com-lightpurple"
       >
     </a>
   </small>
