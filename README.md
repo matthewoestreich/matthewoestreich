@@ -25,5 +25,3 @@
 
 <br />
 
-
-*available for hire*
