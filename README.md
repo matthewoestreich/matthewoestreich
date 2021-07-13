@@ -25,3 +25,6 @@
 
 <br />
 
+<br />
+
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=oze4&count_private=true)
