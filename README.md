@@ -27,4 +27,16 @@
 
 <br />
 
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=oze4&count_private=true)
+<a href="https://github.com/oze4/">
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=oze4&count_private=true&show_icons=true&include_all_commits=true" 
+  />
+</a>
+
+<a href="https://github.com/oze4/">
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oze4&hide=powershell,html,css&layout=compact&langs_count=20" 
+  />
+</a>
