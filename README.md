@@ -1,7 +1,7 @@
 >"What gets us into trouble is not what we don’t know, it’s what we know for sure that just ain’t so." — Mark Twain
 
 <br />
-
+<!--
 <p>
   <small>
     <a href="https://mattoestreich.com">
@@ -11,7 +11,7 @@
     </a>
   </small>
 </p>
-
+-->
 <a href="https://stackoverflow.com/users/10431732/matt-oestreich">
   <img 
      src="https://stackoverflow.com/users/flair/10431732.png?theme=default" 
@@ -34,9 +34,11 @@
   />
 </a>
 
+<!--
 <a href="https://github.com/oze4/">
   <img 
     align="center" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=oze4&hide=powershell,html,css&layout=compact&langs_count=20" 
   />
 </a>
+-->
