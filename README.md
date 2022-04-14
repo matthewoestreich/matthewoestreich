@@ -22,7 +22,7 @@
    >
 </a>
 
-
+<!--
 <br />
 
 <br />
@@ -33,7 +33,7 @@
     src="https://github-readme-stats.vercel.app/api?username=oze4&count_private=true&show_icons=true&include_all_commits=true" 
   />
 </a>
-
+-->
 <!--
 <a href="https://github.com/oze4/">
   <img 
