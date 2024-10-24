@@ -1,6 +1,3 @@
->Now I've seen Heaven without dyin'<!-- there are tow spaces at the end of the line in order to have a multi line quote -->  
-Met the devil without tryin'<!-- there are tow spaces at the end of the line in order to have a multi line quote -->  
-And they both seem to want to talk to me<!-- two spaces not required at the end -->
 
 <br />
 <!--
