@@ -1,5 +1,4 @@
 
-<br />
 <!--
 <p>
   <small>
@@ -11,6 +10,7 @@
   </small>
 </p>
 -->
+<!--
 <a href="https://stackoverflow.com/users/10431732/matt-oestreich">
   <img 
      src="https://stackoverflow.com/users/flair/10431732.png?theme=default" 
@@ -20,7 +20,7 @@
      title="profile for Matt Oestreich at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
    >
 </a>
-
+-->
 <!--
 <br />
 
